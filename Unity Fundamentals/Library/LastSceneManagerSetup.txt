@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/scenes/Example_2_keyboard_input.unity
+  isLoaded: 1
+  isActive: 1
